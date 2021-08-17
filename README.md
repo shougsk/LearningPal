@@ -1,1 +1,1 @@
-# LearningPal
+# LearningPal Application
